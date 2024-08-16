@@ -1,0 +1,9 @@
+body h1 {
+    color: yellow;
+  }
+
+  button {
+    color: brown;
+    width: 420px ;
+    height: 55px;
+  }
